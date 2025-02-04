@@ -1,4 +1,6 @@
-# escl scanning sample by Javascript
+# Nuxt js escl scanning sample by Javascript
+
+This code is nuxt js escl scanning test sample
 
 ## Setup
 
